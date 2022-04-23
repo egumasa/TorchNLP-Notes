@@ -12,7 +12,7 @@ This repo benefited from the following public repos. I will keep adding as I lea
 - [spaCy project templates](https://github.com/explosion/projects)
 
 
-## Learning Objectives
+## Personal Learning Objectives
 
 As a researcher in Applied Linguistics (focusing on Language Assessment and Corpus linguistics), my learning goals centers on application of Neural Network models into my research contexts. Specifically, these includes:
 
