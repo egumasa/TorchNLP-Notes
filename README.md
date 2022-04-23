@@ -5,7 +5,7 @@ As only a beginner of PyTorch myself, the contents of the repo heavily relies on
 
 ## Resources (with acknowledgement first!!!)
 
-This repo benefited from the following public repos. 
+This repo benefited from the following public repos. I will keep adding as I learn more, but I greatly appreciate the books by Daniel Godoy and Dr. Masato Hagiwara. 
 
 - [Deep Learning with PyTorch Step-by-Step by Daniel Godoy](https://github.com/dvgodoy/PyTorchStepByStep)
 - [Real-World Natural Language Processing by Dr. Masato Hagiwara](https://github.com/mhagiwara/realworldnlp)
