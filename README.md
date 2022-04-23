@@ -10,6 +10,7 @@ This repo benefited from the following public repos. I will keep adding as I lea
 - [Deep Learning with PyTorch Step-by-Step by Daniel Godoy](https://github.com/dvgodoy/PyTorchStepByStep)
 - [Real-World Natural Language Processing by Dr. Masato Hagiwara](https://github.com/mhagiwara/realworldnlp)
 - [spaCy project templates](https://github.com/explosion/projects)
+- [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
 
 
 ## Personal Learning Objectives
