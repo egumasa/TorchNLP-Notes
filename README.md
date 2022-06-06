@@ -1,7 +1,7 @@
 # TorchNLP-Notes
 
 This repo is a collection of my notes on all things related to Natural Language Processing and PyTorch implementation.
-As only a beginner of PyTorch myself, the contents of the repo heavily rely on external resources. Conveniently, it can be thought of curated notes based on my learning. 
+As only a beginner of PyTorch myself, the contents of the repo heavily rely on external resources. Conveniently, the current repo can be thought of curated notes based on my learning. 
 
 ## Resources (with acknowledgement first!!!)
 
@@ -14,11 +14,13 @@ This repo greatly benefited from the following public repos. I will keep adding 
 - [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
 
 
+
 ## Personal Learning Objectives
 
 As a researcher in Applied Linguistics (focusing on Language Assessment and Corpus linguistics), my learning goals center on applications of neural network models into my research contexts. Specifically, these includes:
 
 - [ ] Understanding how PyTorch works and how to train a basic NN model
+- [ ] How to create datasets; load them (very important step!!)
 - [ ] Fine-tuning Transformer models through PyTorch and Huggingface
 - [ ] Reimplementing some cool NLP architectures
 - [ ] Creating custom language components (for a applied language tasks) with AllenNLP and/or spaCy
